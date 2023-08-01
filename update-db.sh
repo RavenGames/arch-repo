@@ -35,10 +35,10 @@ echo -e "${BCyan}####################################${Color_Off}"
 declare -a OLD_DATABASE=(
   'online-repo.db'
   'online-repo.db.tar.gz'
-  'online-repo.db.tar.gz.old'
+#  'online-repo.db.tar.gz.old'
   'online-repo.files'
   'online-repo.files.tar.gz'
-  'online-repo.files.tar.gz.old'
+#  'online-repo.files.tar.gz.old'
 )
 
 # remove old files #
